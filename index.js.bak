@@ -4,7 +4,7 @@
 var main=getEle("#main");
 var winH=document.documentElement.clientHeight;
 var winW=document.documentElement.clientWidth;
-var desH=960;
+var desH=904;
 var desW=640;
 if(desW/desW<winW/winH)
 {
